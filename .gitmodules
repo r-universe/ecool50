@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FuseSOM"]
 	path = FuseSOM
 	url = https://github.com/ecool50/fusesom
-	shallow = true
-	registered = true
